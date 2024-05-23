@@ -6,7 +6,7 @@
  * Also I watched couple of videos in Youtube to see how could do it
  * Furthermore, looking for more information in google to complete the program(mostly with trigonometric functions). 
  */
-// Here is the link showing the explanation of the program.
+
 
 
 import java.util.Scanner;
